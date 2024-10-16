@@ -133,7 +133,9 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/37a96214-6e57-4474-a569-00e3e858dbbd)
+
+![WhatsApp Image 2024-10-16 at 14 18 52_50fa2b17](https://github.com/user-attachments/assets/71f7c681-fa44-40d0-b79a-8d2c0a58216f)
+
 
 
 ## Result:
